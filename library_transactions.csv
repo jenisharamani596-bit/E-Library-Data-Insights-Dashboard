@@ -1,0 +1,303 @@
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration (Days)
+T0056,2024-01-03,U040,The Great Gatsby,Fiction,3.0
+T0255,2024-01-04,U031,To Kill a Mockingbird,Fiction,16.0
+T0252,2024-01-08,U031,Think and Grow Rich,Self-Help,7.0
+T0185,2024-01-08,U026,The Pragmatic Programmer,Technology,15.0
+T0224,2024-01-09,U012,Cosmos,Science,14.0
+T0122,2024-01-09,U036,Long Walk to Freedom,Biography,20.0
+T0090,2024-01-12,U011,1984,Fiction,10.0
+T0099,2024-01-13,U022,To Kill a Mockingbird,Fiction,24.0
+T0280,2024-01-14,U007,1984,Fiction,14.0
+T0069,2024-01-14,U008,The Selfish Gene,Science,11.0
+T0202,2024-01-16,U016,1984,Fiction,
+T0008,2024-01-16,U032,Long Walk to Freedom,Biography,2.0
+T0102,2024-01-22,U023,Python Crash Course,Technology,7.0
+T0231,2024-01-24,U003,The Story of My Experiments with Truth,Biography,9.0
+T0021,2024-01-28,U030,1984,Fiction,10.0
+T0079,2024-01-29,U040,The Pragmatic Programmer,Technology,15.0
+T0169,2024-01-29,U001,Think and Grow Rich,Self-Help,8.0
+T0232,2024-01-31,U019,Steve Jobs,Biography,17.0
+T0198,2024-01-31,U019,Cosmos,Science,22.0
+T0148,2024-02-01,U016,The Pragmatic Programmer,Technology,20.0
+T0124,2024-02-02,U016,Think and Grow Rich,Self-Help,10.0
+T0085,2024-02-03,U007,To Kill a Mockingbird,Fiction,7.0
+T0195,2024-02-04,U024,Sapiens,Science,10.0
+T0039,2024-02-05,U010,A Brief History of Time,Science,15.0
+T0170,2024-02-05,U009,The Silk Roads,History,15.0
+T0210,2024-02-07,U028,The Pragmatic Programmer,Technology,12.0
+T0123,2024-02-08,U027,The Story of My Experiments with Truth,Biography,19.0
+T0262,2024-02-09,U039,The Selfish Gene,Science,3.0
+T0274,2024-02-09,U034,India After Gandhi,History,5.0
+T0072,2024-02-11,U003,Steve Jobs,Biography,21.0
+T0265,2024-02-13,U017,Ikigai,Self-Help,6.0
+T0150,2024-02-13,U021,"Guns, Germs, and Steel",History,8.0
+T0173,2024-02-16,U019,The Story of My Experiments with Truth,Biography,20.0
+T0109,2024-02-16,U037,The Selfish Gene,Science,7.0
+T0026,2024-02-17,U007,Cosmos,Science,13.0
+T0070,2024-02-21,U011,"Guns, Germs, and Steel",History,20.0
+T0052,2024-02-21,U001,Long Walk to Freedom,Biography,27.0
+T0281,2024-02-21,U004,The Great Gatsby,Fiction,13.0
+T0258,2024-02-21,U040,Think and Grow Rich,Self-Help,6.0
+T0193,2024-02-21,U001,Think and Grow Rich,Self-Help,2.0
+T0208,2024-02-22,U007,Long Walk to Freedom,Biography,7.0
+T0134,2024-02-25,U008,SPQR,History,13.0
+T0225,2024-02-25,U020,The Pragmatic Programmer,Technology,11.0
+T0010,2024-02-26,U025,Sapiens,Science,5.0
+T0035,2024-02-28,U005,The Great Gatsby,Fiction,16.0
+T0239,2024-02-28,U004,The Great Gatsby,Fiction,1.0
+T0130,2024-02-28,U039,"Guns, Germs, and Steel",History,16.0
+T0120,2024-03-01,U004,The Great Gatsby,Fiction,13.0
+T0139,2024-03-01,U010,The Selfish Gene,Science,2.0
+T0214,2024-03-03,U039,The Story of My Experiments with Truth,Biography,9.0
+T0211,2024-03-04,U002,Clean Code,Technology,2.0
+T0182,2024-03-05,U036,"Guns, Germs, and Steel",History,11.0
+T0203,2024-03-06,U015,Long Walk to Freedom,Biography,13.0
+T0205,2024-03-09,U031,Python Crash Course,Technology,10.0
+T0024,2024-03-10,U001,Steve Jobs,Biography,12.0
+T0004,2024-03-12,U033,The Story of My Experiments with Truth,Biography,
+T0054,2024-03-13,U001,The Silk Roads,History,9.0
+T0176,2024-03-14,U040,The Great Gatsby,Fiction,22.0
+T0291,2024-03-14,U030,The Silk Roads,History,18.0
+T0094,2024-03-19,U023,1984,Fiction,16.0
+T0030,2024-03-23,U029,1984,Fiction,12.0
+T0278,2024-03-25,U022,Long Walk to Freedom,Biography,15.0
+T0100,2024-03-26,U030,The Silk Roads,History,11.0
+T0279,2024-03-27,U021,Ikigai,Self-Help,11.0
+T0049,2024-03-28,U005,Atomic Habits,Self-Help,3.0
+T0141,2024-03-28,U014,Clean Code,Technology,9.0
+T0071,2024-03-30,U029,India After Gandhi,History,9.0
+T0267,2024-03-30,U038,Wings of Fire,Biography,19.0
+T0298,2024-04-03,U031,The Pragmatic Programmer,Technology,6.0
+T0163,2024-04-05,U028,The Great Gatsby,Fiction,13.0
+T0161,2024-04-06,U032,The Great Gatsby,Fiction,4.0
+T0158,2024-04-07,U023,The Selfish Gene,Science,3.0
+T0244,2024-04-07,U020,Think and Grow Rich,Self-Help,7.0
+T0168,2024-04-09,U004,The Story of My Experiments with Truth,Biography,14.0
+T0095,2024-04-10,U022,The Great Gatsby,Fiction,16.0
+T0233,2024-04-10,U019,Cosmos,Science,21.0
+T0063,2024-04-11,U004,The Pragmatic Programmer,Technology,8.0
+T0104,2024-04-12,U031,"Guns, Germs, and Steel",History,5.0
+T0266,2024-04-12,U006,India After Gandhi,History,11.0
+T0251,2024-04-13,U013,India After Gandhi,History,6.0
+T0048,2024-04-15,U021,The Pragmatic Programmer,Technology,8.0
+T0294,2024-04-16,U015,Long Walk to Freedom,Biography,10.0
+T0223,2024-04-17,U014,Wings of Fire,Biography,15.0
+T0106,2024-04-17,U040,Wings of Fire,Biography,12.0
+T0215,2024-04-19,U030,The Great Gatsby,Fiction,1.0
+T0142,2024-04-20,U019,Sapiens,Science,9.0
+T0259,2024-04-20,U025,Deep Work,Self-Help,12.0
+T0088,2024-04-20,U035,Wings of Fire,Biography,13.0
+T0178,2024-04-21,U016,1984,Fiction,10.0
+T0191,2024-04-22,U016,Atomic Habits,Self-Help,11.0
+T0285,2024-04-23,U005,Think and Grow Rich,Self-Help,1.0
+T0040,2024-04-24,U006,Wings of Fire,Biography,10.0
+T0261,2024-04-25,U015,The Alchemist,Fiction,5.0
+T0290,2024-04-25,U030,Cosmos,Science,13.0
+T0119,2024-04-27,U038,Long Walk to Freedom,Biography,7.0
+T0273,2024-04-27,U033,The Story of My Experiments with Truth,Biography,17.0
+T0018,2024-04-28,U004,The Selfish Gene,Science,10.0
+T0206,2024-04-30,U006,Ikigai,Self-Help,2.0
+T0029,2024-04-30,U034,The Pragmatic Programmer,Technology,15.0
+T0246,2024-05-01,U005,Long Walk to Freedom,Biography,19.0
+T0121,2024-05-02,U031,Wings of Fire,Biography,3.0
+T0151,2024-05-03,U004,Wings of Fire,Biography,15.0
+T0149,2024-05-05,U017,Sapiens,Science,8.0
+T0220,2024-05-06,U031,Atomic Habits,Self-Help,17.0
+T0091,2024-05-06,U025,Long Walk to Freedom,Biography,11.0
+T0253,2024-05-12,U013,The Selfish Gene,Science,15.0
+T0146,2024-05-12,U036,The Story of My Experiments with Truth,Biography,15.0
+T0005,2024-05-12,U006,Long Walk to Freedom,Biography,12.0
+T0153,2024-05-13,U027,Wings of Fire,Biography,15.0
+T0015,2024-05-13,U026,Ikigai,Self-Help,6.0
+T0284,2024-05-15,U007,The Pragmatic Programmer,Technology,2.0
+T0020,2024-05-15,U002,Wings of Fire,Biography,16.0
+T0140,2024-05-19,U009,Clean Code,Technology,4.0
+T0046,2024-05-21,U007,Python Crash Course,Technology,20.0
+T0116,2024-05-28,U021,The Great Gatsby,Fiction,3.0
+T0017,2024-05-29,U033,Long Walk to Freedom,Biography,10.0
+T0096,2024-05-29,U016,The Alchemist,Fiction,14.0
+T0115,2024-05-29,U015,"Guns, Germs, and Steel",History,13.0
+T0200,2024-05-31,U008,Sapiens,Science,16.0
+T0117,2024-06-01,U018,Wings of Fire,Biography,12.0
+T0227,2024-06-01,U040,Cosmos,Science,
+T0190,2024-06-06,U024,The Great Gatsby,Fiction,10.0
+T0043,2024-06-07,U027,The Great Gatsby,Fiction,10.0
+T0107,2024-06-07,U006,The Alchemist,Fiction,14.0
+T0034,2024-06-08,U013,Atomic Habits,Self-Help,7.0
+T0092,2024-06-08,U025,1984,Fiction,13.0
+T0073,2024-06-09,U018,India After Gandhi,History,13.0
+T0250,2024-06-09,U012,To Kill a Mockingbird,Fiction,18.0
+T0237,2024-06-10,U001,Atomic Habits,Self-Help,11.0
+T0138,2024-06-11,U037,Deep Learning,Technology,23.0
+T0219,2024-06-12,U019,The Silk Roads,History,4.0
+T0171,2024-06-12,U018,Think and Grow Rich,Self-Help,9.0
+T0166,2024-06-13,U032,Long Walk to Freedom,Biography,9.0
+T0174,2024-06-15,U001,The Selfish Gene,Science,6.0
+T0157,2024-06-15,U038,Ikigai,Self-Help,13.0
+T0066,2024-06-16,U022,The Great Gatsby,Fiction,6.0
+T0287,2024-06-16,U015,The Silk Roads,History,19.0
+T0128,2024-06-17,U006,The Great Gatsby,Fiction,10.0
+T0025,2024-06-17,U029,A Brief History of Time,Science,28.0
+T0183,2024-06-18,U026,Think and Grow Rich,Self-Help,5.0
+T0229,2024-06-19,U020,Think and Grow Rich,Self-Help,9.0
+T0006,2024-06-19,U013,Ikigai,Self-Help,14.0
+T0022,2024-06-20,U014,1984,Fiction,18.0
+T0076,2024-06-20,U012,Deep Learning,Technology,10.0
+T0061,2024-06-21,U023,Long Walk to Freedom,Biography,14.0
+T0242,2024-06-21,U027,The Selfish Gene,Science,1.0
+T0028,2024-06-22,U030,The Story of My Experiments with Truth,Biography,13.0
+T0228,2024-06-25,U008,Long Walk to Freedom,Biography,20.0
+T0234,2024-06-26,U011,Wings of Fire,Biography,9.0
+T0187,2024-06-28,U014,Long Walk to Freedom,Biography,16.0
+T0236,2024-06-28,U002,The Story of My Experiments with Truth,Biography,14.0
+T0204,2024-06-29,U016,Deep Learning,Technology,19.0
+T0155,2024-06-29,U022,SPQR,History,15.0
+T0137,2024-06-29,U040,The Pragmatic Programmer,Technology,13.0
+T0135,2024-06-30,U037,Cosmos,Science,22.0
+T0007,2024-06-30,U022,Long Walk to Freedom,Biography,7.0
+T0132,2024-07-01,U008,The Pragmatic Programmer,Technology,5.0
+T0111,2024-07-03,U038,The Silk Roads,History,16.0
+T0067,2024-07-03,U007,Wings of Fire,Biography,7.0
+T0296,2024-07-06,U017,"Guns, Germs, and Steel",History,12.0
+T0248,2024-07-09,U011,The Alchemist,Fiction,6.0
+T0241,2024-07-16,U010,The Alchemist,Fiction,7.0
+T0257,2024-07-17,U005,Long Walk to Freedom,Biography,16.0
+T0247,2024-07-17,U010,Atomic Habits,Self-Help,11.0
+T0181,2024-07-18,U038,The Pragmatic Programmer,Technology,10.0
+T0283,2024-07-18,U019,The Story of My Experiments with Truth,Biography,17.0
+T0009,2024-07-18,U005,"Guns, Germs, and Steel",History,1.0
+T0065,2024-07-21,U017,The Alchemist,Fiction,22.0
+T0084,2024-07-21,U024,The Great Gatsby,Fiction,1.0
+T0260,2024-07-21,U040,Wings of Fire,Biography,11.0
+T0282,2024-07-21,U011,1984,Fiction,17.0
+T0110,2024-07-22,U021,The Selfish Gene,Science,17.0
+T0086,2024-07-23,U010,The Silk Roads,History,2.0
+T0031,2024-07-25,U013,The Alchemist,Fiction,11.0
+T0083,2024-07-25,U003,Wings of Fire,Biography,19.0
+T0078,2024-07-25,U027,Steve Jobs,Biography,9.0
+T0068,2024-07-26,U025,Think and Grow Rich,Self-Help,20.0
+T0240,2024-07-27,U039,Long Walk to Freedom,Biography,7.0
+T0081,2024-07-28,U008,The Selfish Gene,Science,16.0
+T0180,2024-07-30,U029,The Silk Roads,History,10.0
+T0218,2024-07-31,U004,The Great Gatsby,Fiction,8.0
+T0194,2024-08-01,U025,Atomic Habits,Self-Help,13.0
+T0212,2024-08-02,U014,The Story of My Experiments with Truth,Biography,2.0
+T0222,2024-08-03,U036,The Pragmatic Programmer,Technology,26.0
+T0089,2024-08-08,U034,Cosmos,Science,11.0
+T0145,2024-08-09,U026,Cosmos,Science,1.0
+T0221,2024-08-11,U024,The Alchemist,Fiction,14.0
+T0275,2024-08-12,U030,To Kill a Mockingbird,Fiction,5.0
+T0295,2024-08-14,U034,1984,Fiction,7.0
+T0192,2024-08-16,U017,Deep Learning,Technology,16.0
+T0197,2024-08-17,U021,Think and Grow Rich,Self-Help,11.0
+T0037,2024-08-17,U006,Deep Work,Self-Help,14.0
+T0144,2024-08-18,U030,Atomic Habits,Self-Help,13.0
+T0293,2024-08-19,U034,SPQR,History,15.0
+T0082,2024-08-19,U001,Ikigai,Self-Help,9.0
+T0051,2024-08-20,U011,Cosmos,Science,9.0
+T0196,2024-08-25,U038,Long Walk to Freedom,Biography,23.0
+T0075,2024-08-26,U006,Clean Code,Technology,21.0
+T0268,2024-08-28,U013,1984,Fiction,1.0
+T0207,2024-08-29,U014,The Silk Roads,History,12.0
+T0108,2024-08-29,U017,1984,Fiction,12.0
+T0114,2024-08-30,U032,Clean Code,Technology,15.0
+T0189,2024-08-30,U023,The Great Gatsby,Fiction,13.0
+T0060,2024-08-30,U006,The Silk Roads,History,17.0
+T0263,2024-08-31,U024,The Great Gatsby,Fiction,16.0
+T0074,2024-08-31,U024,Python Crash Course,Technology,14.0
+T0235,2024-09-01,U006,The Great Gatsby,Fiction,9.0
+T0032,2024-09-01,U030,The Selfish Gene,Science,7.0
+T0264,2024-09-02,U003,"Guns, Germs, and Steel",History,10.0
+T0001,2024-09-04,U004,1984,Fiction,13.0
+T0209,2024-09-04,U013,Think and Grow Rich,Self-Help,10.0
+T0143,2024-09-06,U036,Clean Code,Technology,17.0
+T0050,2024-09-06,U040,The Story of My Experiments with Truth,Biography,1.0
+T0012,2024-09-06,U009,Atomic Habits,Self-Help,10.0
+T0027,2024-09-07,U027,Think and Grow Rich,Self-Help,21.0
+T0127,2024-09-11,U019,Think and Grow Rich,Self-Help,5.0
+T0136,2024-09-11,U035,1984,Fiction,5.0
+T0156,2024-09-12,U032,Cosmos,Science,6.0
+T0038,2024-09-12,U024,The Silk Roads,History,10.0
+T0175,2024-09-13,U009,The Silk Roads,History,1.0
+T0062,2024-09-14,U036,Wings of Fire,Biography,16.0
+T0129,2024-09-18,U015,"Guns, Germs, and Steel",History,6.0
+T0164,2024-09-18,U035,Ikigai,Self-Help,8.0
+T0188,2024-09-19,U025,The Great Gatsby,Fiction,24.0
+T0177,2024-09-20,U040,India After Gandhi,History,27.0
+T0126,2024-09-20,U028,SPQR,History,1.0
+T0270,2024-09-22,U023,A Brief History of Time,Science,6.0
+T0269,2024-09-23,U009,Ikigai,Self-Help,3.0
+T0167,2024-09-25,U021,The Great Gatsby,Fiction,12.0
+T0011,2024-09-28,U012,Think and Grow Rich,Self-Help,9.0
+T0014,2024-09-28,U017,The Great Gatsby,Fiction,19.0
+T0186,2024-10-03,U013,India After Gandhi,History,3.0
+T0199,2024-10-03,U003,Clean Code,Technology,5.0
+T0003,2024-10-04,U030,Deep Learning,Technology,7.0
+T0159,2024-10-05,U018,Deep Work,Self-Help,15.0
+T0080,2024-10-06,U034,The Selfish Gene,Science,3.0
+T0272,2024-10-07,U004,Ikigai,Self-Help,14.0
+T0041,2024-10-07,U032,Ikigai,Self-Help,18.0
+T0125,2024-10-08,U007,Think and Grow Rich,Self-Help,14.0
+T0162,2024-10-11,U037,India After Gandhi,History,16.0
+T0064,2024-10-11,U036,Think and Grow Rich,Self-Help,17.0
+T0002,2024-10-11,U015,The Alchemist,Fiction,18.0
+T0059,2024-10-11,U016,The Story of My Experiments with Truth,Biography,11.0
+T0230,2024-10-12,U021,The Great Gatsby,Fiction,9.0
+T0112,2024-10-13,U001,Deep Learning,Technology,11.0
+T0201,2024-10-14,U014,1984,Fiction,14.0
+T0165,2024-10-14,U035,The Great Gatsby,Fiction,21.0
+T0058,2024-10-14,U024,Deep Learning,Technology,13.0
+T0213,2024-10-16,U001,Ikigai,Self-Help,15.0
+T0023,2024-10-17,U016,India After Gandhi,History,5.0
+T0087,2024-10-17,U034,1984,Fiction,7.0
+T0057,2024-10-17,U024,1984,Fiction,10.0
+T0044,2024-10-20,U028,The Great Gatsby,Fiction,1.0
+T0055,2024-10-20,U023,SPQR,History,15.0
+T0243,2024-10-21,U027,1984,Fiction,6.0
+T0288,2024-10-22,U024,1984,Fiction,6.0
+T0179,2024-10-22,U033,The Silk Roads,History,1.0
+T0118,2024-10-24,U017,To Kill a Mockingbird,Fiction,14.0
+T0101,2024-10-26,U031,Atomic Habits,Self-Help,10.0
+T0254,2024-10-28,U036,Wings of Fire,Biography,11.0
+T0286,2024-10-29,U035,SPQR,History,18.0
+T0036,2024-10-30,U036,"Guns, Germs, and Steel",History,19.0
+T0053,2024-10-30,U037,The Alchemist,Fiction,15.0
+T0042,2024-10-30,U006,Ikigai,Self-Help,1.0
+T0045,2024-11-03,U003,Long Walk to Freedom,Biography,3.0
+T0249,2024-11-06,U006,The Alchemist,Fiction,12.0
+T0098,2024-11-07,U028,1984,Fiction,14.0
+T0184,2024-11-08,U016,Think and Grow Rich,Self-Help,15.0
+T0103,2024-11-08,U011,Sapiens,Science,6.0
+T0077,2024-11-08,U014,SPQR,History,6.0
+T0256,2024-11-23,U037,Think and Grow Rich,Self-Help,12.0
+T0047,2024-11-23,U032,Cosmos,Science,17.0
+T0131,2024-11-24,U011,Steve Jobs,Biography,24.0
+T0172,2024-11-25,U030,Think and Grow Rich,Self-Help,10.0
+T0297,2024-11-26,U005,Python Crash Course,Technology,10.0
+T0019,2024-11-26,U035,The Great Gatsby,Fiction,13.0
+T0154,2024-11-27,U030,"Guns, Germs, and Steel",History,2.0
+T0105,2024-11-30,U029,Steve Jobs,Biography,7.0
+T0276,2024-11-30,U025,India After Gandhi,History,15.0
+T0013,2024-12-02,U021,Clean Code,Technology,24.0
+T0216,2024-12-03,U010,Wings of Fire,Biography,17.0
+T0300,2024-12-07,U031,The Great Gatsby,Fiction,23.0
+T0133,2024-12-08,U028,Python Crash Course,Technology,7.0
+T0271,2024-12-08,U018,Cosmos,Science,21.0
+T0238,2024-12-08,U020,SPQR,History,18.0
+T0033,2024-12-09,U034,The Great Gatsby,Fiction,15.0
+T0292,2024-12-13,U012,Deep Work,Self-Help,23.0
+T0245,2024-12-14,U036,A Brief History of Time,Science,11.0
+T0226,2024-12-15,U009,Deep Learning,Technology,17.0
+T0147,2024-12-16,U026,Long Walk to Freedom,Biography,9.0
+T0152,2024-12-17,U030,SPQR,History,17.0
+T0289,2024-12-17,U021,The Story of My Experiments with Truth,Biography,1.0
+T0160,2024-12-19,U005,Steve Jobs,Biography,7.0
+T0016,2024-12-19,U013,Cosmos,Science,14.0
+T0277,2024-12-21,U017,The Alchemist,Fiction,12.0
+T0093,2024-12-24,U008,Cosmos,Science,6.0
+T0217,2024-12-27,U008,SPQR,History,14.0
+T0299,2024-12-27,U002,The Great Gatsby,Fiction,24.0
+T0097,2024-12-28,U031,To Kill a Mockingbird,Fiction,15.0
+T0113,2024-12-29,U002,The Alchemist,Fiction,8.0
+T0122,2024-01-09,U036,Long Walk to Freedom,Biography,20.0
+T0090,2024-01-12,U011,1984,Fiction,10.0
