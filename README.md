@@ -39,6 +39,7 @@ final_practical/
 ├── line_monthly_trend.png
 ├── pie_genre_distribution.png
 ├── heatmap_activity.png
+├── output.png
 └── README.md
 ```
 
